@@ -1,0 +1,25 @@
+{
+  "name": "com.moolucio.tile-terrain",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "displayName": "Tile Terrain System",
+  "description": "Grid-based terrain editing framework for Unity with heightmap sculpting, autotile textures, a three-tier cliff system, half-step ramps, water painting, props with entanglement groups, and fog of war. Inspired by the Warcraft III World Editor.",
+  "keywords": [
+    "terrain",
+    "tile",
+    "grid",
+    "editor",
+    "warcraft",
+    "cliff",
+    "autotile",
+    "fog-of-war"
+  ],
+  "category": "3D",
+  "author": {
+    "name": "MooLucio"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/user/TileTerrainSystem/blob/main/Documentation~/getting-started.md",
+  "changelogUrl": "https://github.com/user/TileTerrainSystem/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/user/TileTerrainSystem/blob/main/LICENSE"
+}

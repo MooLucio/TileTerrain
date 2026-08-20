@@ -1,0 +1,59 @@
+# Editable source files (Blender, JSON matrices, prototypes)
+Unity/Assets/TileTerrainSystem/Editable/
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Ee]xports/
+
+# Unity-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+*.apk.meta
+*.aab.meta
+*.unitypackage.meta
+*.app.meta
+*.ipa.meta
+*.apk.meta.meta
+
+# JetBrains Rider / Visual Studio / VS Code
+.vs/
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Git
+.gitignore.bak

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2400c1c0b17a25144a74eb028d14f041, type: 3}
+  m_Name: Trees
+  m_EditorClassIdentifier: Assembly-CSharp::MooLucio.TileTerrain.TileTerrainProp
+  Label: Example
+  Prefabs:
+  - {fileID: 919132149155446097, guid: eac488229f7c4ec43bf69f6498d7b54c, type: 3}
+  - {fileID: 919132149155446097, guid: f737cb96630c8614990eacdbb32d2aea, type: 3}
+  MinScale: 0.9
+  MaxScale: 1.1
+  RandomRotation: 1
+  CanRotate: 1
+  CanScale: 1
+  OccupyWidth: 1
+  OccupyHeight: 1
+  CanPlaceInWater: 1
