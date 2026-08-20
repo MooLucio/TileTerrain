@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc78a5511f3d7345bcbcfb53d2e18e0, type: 3}
+  m_Name: Textures
+  m_EditorClassIdentifier: Assembly-CSharp::TileTerrainPalette
+  CliffTexture: {fileID: 2800000, guid: e27bcba9576025d4c81fab5e0b719045, type: 3}
+  Entries:
+  - Texture: {fileID: 18700000, guid: 8dc3e10a32293fe43aab61eb24ca002e, type: 3}
+    Priority: 2
+  - Texture: {fileID: 18700000, guid: e731bc212c36dea419ae7605f17400b0, type: 3}
+    Priority: 1
+  - Texture: {fileID: 18700000, guid: 375489c6c867c04448c985439be18263, type: 3}
+    Priority: 3
+  - Texture: {fileID: 18700000, guid: 306794d0f2070b344811be5d1836d3ce, type: 3}
+    Priority: 4

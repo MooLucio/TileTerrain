@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6555ed4cf7fda77489a87965cc90a929
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GridData: {instanceID: 0}
+  - TileMaterial: {fileID: 2100000, guid: 2beb78ad95111a74796092b13898a915, type: 2}
+  - Palette: {instanceID: 0}
+  - CliffMeshFbx: {fileID: 919132149155446097, guid: 812f9a5936b1696478efdb066390d625,
+      type: 3}
+  - CliffDoubleMeshFbx: {fileID: 919132149155446097, guid: 1aa9ac43bb403bf44b02f136b1c90260,
+      type: 3}
+  - CliffTransitionalMeshFbx: {fileID: 919132149155446097, guid: 2f27c0508cf799c428d5d2d982b605e0,
+      type: 3}
+  - WaterMaterial: {fileID: 2100000, guid: 6ef709ff3d5d4594f96d59ed799520c0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
