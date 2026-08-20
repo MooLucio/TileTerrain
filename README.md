@@ -6,7 +6,7 @@ A custom, editor-only Unity terrain editing framework for grid-based games that 
 
 > Heavily inspired by the [Warcraft III World Editor](https://en.wikipedia.org/wiki/Warcraft_III_World_Editor).
 
-**Code license:** MIT — see [`LICENSE.md`](LICENSE.md).
+**Code license:** PolyForm Perimeter 1.0.0 — see [`LICENSE.md`](LICENSE.md).
 **Asset license:** CC BY 4.0 — see [`LICENSE.assets.md`](LICENSE.assets.md).
 
 ---
@@ -189,7 +189,7 @@ TileTerrain/
 │   ├── Data/                         # Sample grid + palette assets
 │   ├── Icons/                        # ScriptableObject icons
 │   └── Documentation/                # System documentation (see below)
-├── LICENSE.md                        # MIT (code, shaders, docs)
+├── LICENSE.md                        # PolyForm Perimeter 1.0.0 (code, shaders, docs)
 ├── LICENSE.assets.md                 # CC BY 4.0 (assets)
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
@@ -275,7 +275,7 @@ The full system documentation lives in [`Unity/Assets/TileTerrainSystem/Document
 
 ## License
 
-- **Code, shaders and documentation** are licensed under the [MIT License](LICENSE.md).
+- **Code, shaders and documentation** are licensed under the [PolyForm Perimeter 1.0.0 License](LICENSE.md).
 - **Assets** (textures, icons, models, materials, sample data) are licensed under [CC BY 4.0](LICENSE.assets.md).
 
 ---

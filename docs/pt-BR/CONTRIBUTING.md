@@ -34,7 +34,7 @@ focada, e contribuições são bem-vindas — mas por favor, mantenha o escopo e
 Ao contribuir, você concorda que suas contribuições são licenciadas sob as
 licenças do repositório:
 
-- Código, shaders e documentação → [MIT](LICENSE.md)
+- Código, shaders e documentação → [PolyForm Perimeter 1.0.0](LICENSE.md)
 - Assets → [CC BY 4.0](LICENSE.assets.md)
 
 Não envie assets de terceiros a menos que você os possua ou eles sejam licenciados

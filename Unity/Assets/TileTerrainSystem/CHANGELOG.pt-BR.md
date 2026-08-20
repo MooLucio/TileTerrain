@@ -10,7 +10,7 @@ e este projeto segue o [Semantic Versioning](https://semver.org/spec/v2.0.0.html
 ## [Unreleased]
 
 ### Adicionado
-- Licenca MIT.
+- Licença PolyForm Perimeter 1.0.0.
 - Documentacao publica para colaboracao no GitHub.
 - Guia completo de inicio rapido com instrucoes de configuracao do array de texturas.
 - Documentacao de arquitetura explicando o design de tres pilares.

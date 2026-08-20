@@ -7,8 +7,8 @@ textures, icons, models, materials, shader-graph files and sample data —
 located under `Unity/Assets/TileTerrainSystem/` in the `Textures/`, `Icons/`,
 `Models/`, `Materials/`, `Shaders/` and `Data/` folders.
 
-Code, shaders (HLSL/SourceShader) and documentation remain under the MIT
-License (see [LICENSE.md](LICENSE.md)).
+Code, shaders (HLSL/SourceShader) and documentation remain under the PolyForm
+Perimeter License 1.0.0 (see [LICENSE.md](LICENSE.md)).
 
 The official, binding text of CC BY 4.0 is published by Creative Commons:
 

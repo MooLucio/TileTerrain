@@ -34,7 +34,7 @@ tool and contributions are welcome — but please keep the scope in mind.
 By contributing you agree that your contributions are licensed under the
 repository's licenses:
 
-- Code, shaders and documentation → [MIT](LICENSE.md)
+- Code, shaders and documentation → [PolyForm Perimeter 1.0.0](LICENSE.md)
 - Assets → [CC BY 4.0](LICENSE.assets.md)
 
 Do not submit third-party assets unless you own them or they are licensed

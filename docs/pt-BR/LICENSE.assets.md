@@ -13,7 +13,7 @@ exemplo — localizados em `Unity/Assets/TileTerrainSystem/` nas pastas
 `Textures/`, `Icons/`, `Models/`, `Materials/`, `Shaders/` e `Data/`.
 
 Código, shaders (HLSL/SourceShader) e documentação permanecem sob a
-Licença MIT (veja [LICENSE.md](LICENSE.md)).
+Licença PolyForm Perimeter 1.0.0 (veja [LICENSE.md](LICENSE.md)).
 
 Em resumo, você é livre para compartilhar e adaptar esses assets para qualquer
 finalidade, desde que forneça o devido crédito. O Código Legal completo abaixo é

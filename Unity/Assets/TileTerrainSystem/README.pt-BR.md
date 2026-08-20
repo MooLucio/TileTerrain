@@ -110,4 +110,4 @@ TileTerrainSystem/
 
 ## Licenca
 
-Este projeto esta licenciado sob a [Licenca MIT](LICENSE).
+Este projeto está licenciado sob a [Licença PolyForm Perimeter 1.0.0](LICENSE).

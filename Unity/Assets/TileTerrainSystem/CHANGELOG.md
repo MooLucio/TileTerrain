@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- MIT License.
+- PolyForm Perimeter 1.0.0 License.
 - Public documentation for GitHub collaboration.
 - Comprehensive getting-started guide with texture array setup instructions.
 - Architecture documentation explaining the three-pillar design.
