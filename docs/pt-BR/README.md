@@ -288,6 +288,7 @@ doação é bem-vinda, mas totalmente opcional:
 
 - **PayPal** (internacional): [Doar](https://www.paypal.com/donate/?business=FT8LTCL8Z86C4&no_recurring=0&currency_code=BRL)
 - **Mercado Pago** (Brasil — PIX/cartão): [Doar](https://link.mercadopago.com.br/moolucio)
+- **Gumroad** (outros projetos): [Mool Studio](https://moolstudio.gumroad.com)
 
 Doações são um apoio voluntário e não conferem benefícios, prioridade ou créditos.
 

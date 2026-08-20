@@ -287,6 +287,7 @@ thanks, a donation is appreciated but completely optional:
 
 - **PayPal** (international): [Donate](https://www.paypal.com/donate/?business=FT8LTCL8Z86C4&no_recurring=0&currency_code=BRL)
 - **Mercado Pago** (Brazil — PIX/card): [Donate](https://link.mercadopago.com.br/moolucio)
+- **Gumroad** (other projects): [Mool Studio](https://moolstudio.gumroad.com)
 
 Donations are voluntary support and grant no benefits, priority or credits.
 
